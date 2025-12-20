@@ -29,7 +29,7 @@ public class ApnaKartMain {
                 System.out.println("\n------- ApnaKart -------");
                 System.out.println("1. Register User");
                 System.out.println("2. Login User");
-                System.out.println("3. Exit");
+                System.out.println("3. Logout");
                 System.out.print("Enter your choice: ");
 
                 int choice = scanner.nextInt();
