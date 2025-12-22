@@ -21,7 +21,6 @@ public class ApnaKartMain {
         UsersModel loggedInUser = null;
         boolean exitApp = false;
 
-        // -------- BEFORE LOGIN --------
         while (!exitApp) {
 
             while (loggedInUser == null) {
